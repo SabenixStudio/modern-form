@@ -630,6 +630,7 @@
             .navbar {
                 flex-direction: column;
                 padding: 15px 0;
+                     position: absolute;
             }
             
             .nav-links {
@@ -667,3 +668,4 @@
             opacity: 1;
             transform: translateY(0);
         }
+
